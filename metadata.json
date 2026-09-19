@@ -1,0 +1,6 @@
+{
+  "name": "Neural Amp Modeler Trainer",
+  "description": "A high-fidelity tool for training and exporting Neural Amp Modeler (NAM) models, supporting both Architecture 1 (A1) and Architecture 2 (A2) with custom parameters and AI-guided model generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
